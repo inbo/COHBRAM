@@ -47,3 +47,12 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+src/Kaarten.R
+data/AD_2_Municipality.cpg
+data/AD_2_Municipality.dbf
+data/AD_2_Municipality.prj
+data/AD_2_Municipality.sbn
+data/AD_2_Municipality.sbx
+data/AD_2_Municipality.shp
+data/AD_2_Municipality.shp.xml
+data/AD_2_Municipality.shx
